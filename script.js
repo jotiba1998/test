@@ -2,6 +2,6 @@ const test =()=>{
 
 }
 
-function test(){
-    
+const test1 =()=>{
+    grnjgnjgnjr
 }
